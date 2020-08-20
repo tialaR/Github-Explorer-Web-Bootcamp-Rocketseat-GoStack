@@ -1,4 +1,4 @@
-# Github Explorer
+# 🚀 Github Explorer
 TypeScript | ReactJS
 
 
