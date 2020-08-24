@@ -2,9 +2,9 @@
 TypeScript | ReactJS
 
 
-Na conclusão do primeiro módulo do nível 03 da Bootcamp construi essa aplicação utilizando
-o TypeScript e o ReactJS. Onde pude revisar conceitos importantes, no front-end usando React, como estados nos componentes,
-propriedades, consumo de api's, rotas, dentre outros.
+At the conclusion of the first module of Level 03 of Bootcamp, I built this application using
+TypeScript and ReactJS. Where I could review important concepts, on the front end using React, like states in the components,
+properties, consumption of api's, routes, among others.
 
  ![](page.png)
  ![](page2.png)
